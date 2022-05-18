@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+    color: white;
+    font-size: 21px;
+}
+
+h1{
+    font-size: 70px;
+    color: black;
+}
+
+p{
+    color: red;
+}
+
+/*parts of the box model are ;
+    margin
+    padding 
+    border
+*/
+
+.box{
+    background: pink;
+    width: 300px;
+    margin: 50px;
+
+    border-width: 10px;
+    border-color: black;
+    border-style: dotted;
+    border: 5px solid orange; /*you ca also do !t th!s way*/
+}

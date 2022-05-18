@@ -19,3 +19,20 @@ div{
     width: 500px;
     height: 500px;
 }
+
+span{
+    color: yellow;
+}
+
+.top{
+    background: pink;
+}
+
+.bottom{
+    background: green;
+}
+
+.intro{
+    font-size: large;
+    color: red;
+}
