@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+.wrapper{
+    background-color: white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    margin: 0px;
+}

@@ -20,7 +20,8 @@ p{
 */
 
 .box{
-    background: pink;
+    background-image: url(/images/d.jpeg);
+    background-size: cover;
     width: 300px;
     margin: 50px;
 
